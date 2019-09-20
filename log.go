@@ -16,6 +16,8 @@ Usage: log [options]
 
 Options:
   -l, --level string       log level. ("debug"|"info"|"warn"|"error")
+  -i, --interval int       frequency of log generation in sec.
+  -d, --duration int       time duration of log generation in min.
 
 `
 
